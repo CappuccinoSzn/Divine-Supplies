@@ -6,7 +6,7 @@ Welcome to the Divine Supplies Ltd Website — a responsive, animated, and featu
 
 ## 🌟 Live Preview
 
-🔗 **Live Site**:   
+🔗 **Live Site**:   https://cappuccinoszn.github.io/Divine-Supplies/
 💻 **Built With**: HTML, CSS, Font Awesome Icons  
 📱 **Responsive**: 100% Mobile-Friendly
 
